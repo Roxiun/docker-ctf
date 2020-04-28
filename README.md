@@ -3,6 +3,7 @@ Simple Docker Image for solving ctfs
 
 ## Installation
 `git clone https://github.com/Roxiun/docker-ctf/ && cd docker-ctf`
+
 `docker build . -t docker-ctf -f Dockerfile`
 
 
